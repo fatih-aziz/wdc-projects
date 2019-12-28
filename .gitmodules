@@ -1,0 +1,12 @@
+[submodule "jatakebattery"]
+	path = jatakebattery
+	url = git@github.com:fatih-aziz/jatakebattery.git
+[submodule "p-cash_html"]
+	path = p-cash_html
+	url = git@github.com:fatih-aziz/p-cash_html.git
+[submodule "p-cash_dev"]
+	path = p-cash_dev
+	url = git@github.com:fatih-aziz/p-cash_dev.git
+[submodule "mapbencana"]
+	path = mapbencana
+	url = git@github.com:fatih-aziz/mapbencana.git
