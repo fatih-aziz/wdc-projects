@@ -10,3 +10,6 @@
 [submodule "mapbencana"]
 	path = mapbencana
 	url = git@github.com:fatih-aziz/mapbencana.git
+[submodule "lks2019"]
+	path = lks2019
+	url = https://github.com/OpsAhmad/lks2019.git
